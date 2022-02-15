@@ -1,2 +1,7 @@
-123456789
-123456
+cd / ¦^¨ì®Ú¥Ø¿ý
+
+cd d:/Eclipse/workspaceTest/Leetcode
+
+git add -f -all
+
+git commit -m ""
